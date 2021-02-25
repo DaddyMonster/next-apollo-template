@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Next.js + Apollo Client + style libraries Template
+
+### Style Libraries Used
+- styled-components
+- tailwind-css
+- material-ui
+
+
 ## Getting Started
 
 First, run the development server:
